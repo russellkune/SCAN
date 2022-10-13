@@ -1,2 +1,2 @@
 # SCAN
-Simultaneous Clustering and Normalization for Studying Inter-tumor heterogeneity 
+simultaneous clustering and normalization for studying intertumoral heterogeneity 
